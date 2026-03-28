@@ -1,0 +1,1 @@
+// Aquí se ponen cosas como el perfil_id, supabase, la api del profe y lo que falte.
